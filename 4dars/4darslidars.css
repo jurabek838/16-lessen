@@ -1,0 +1,32 @@
+.box{
+    scroll-behavior: auto;
+}
+
+.text::before{
+    /* content:"nematov"; */
+}
+
+.text::after{
+    /* content:"jurabek"; */
+}
+/* 
+.car_text::after{
+    content: "";
+}
+
+.food_car::after{
+    content: "mening ismim ";
+    background-color: gold;
+
+}
+
+.mean::after{
+    content: "jurabek yoshim";
+    background-color: blue;
+}
+
+.section::after{
+    content: "18 da";
+} */
+
+
